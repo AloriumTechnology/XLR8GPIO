@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For XLR8BuildTemplate
+####################################### 
+# Class
+#######################################
+XLR8GPIOClass	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+setDDR	KEYWORD2
+setPORT	KEYWORD2
+setPIN	KEYWORD2
+getDDR	KEYWORD2
+getPORT	KEYWORD2
+getPIN	KEYWORD2
+getDDRAddr	KEYWORD2
+getPORTAddr	KEYWORD2
+getPINAddr	KEYWORD2
+pinMode	KEYWORD2
+digitalWrite	KEYWORD2
+digitalRead	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+XLR8GPIO	KEYWORD1
